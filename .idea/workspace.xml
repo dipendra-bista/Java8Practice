@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bac92d3-850c-478e-a92d-8a1e1fbfaea6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Java8Practices" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ccS2AIGxFLbzmjYxudB8jqXwPS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.StreamRemoveDuplicates">
+    <configuration name="JavaCollectorsExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.punojsoft.java8practice.stream.JavaCollectorsExamples" />
+      <module name="Java8Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.punojsoft.java8practice.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LamdaClosoursExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.punojsoft.java8practice.LamdaClosoursExample" />
+      <module name="Java8Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.punojsoft.java8practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamRemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.punojsoft.java8practice.stream.StreamRemoveDuplicates" />
+      <module name="Java8Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.punojsoft.java8practice.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThisReferenceInLamdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.punojsoft.java8practice.ThisReferenceInLamdaExample" />
+      <module name="Java8Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.punojsoft.java8practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeInferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.punojsoft.java8practice.TypeInferenceExample" />
+      <module name="Java8Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.punojsoft.java8practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamRemoveDuplicates" />
+        <item itemvalue="Application.JavaCollectorsExamples" />
+        <item itemvalue="Application.TypeInferenceExample" />
+        <item itemvalue="Application.ThisReferenceInLamdaExample" />
+        <item itemvalue="Application.LamdaClosoursExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bac92d3-850c-478e-a92d-8a1e1fbfaea6" name="Default Changelist" comment="" />
+      <created>1590826178240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590826178240</updated>
+      <workItem from="1590826181437" duration="42888000" />
+      <workItem from="1591095577119" duration="10458000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1591106460352">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="765" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1591106460352" />
+    <state width="1237" height="113" key="GridCell.Tab.0.bottom" timestamp="1591254317560">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591254317560" />
+    <state width="1237" height="113" key="GridCell.Tab.0.center" timestamp="1591254317559">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591254317559" />
+    <state width="1237" height="113" key="GridCell.Tab.0.left" timestamp="1591254317558">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591254317558" />
+    <state width="1237" height="113" key="GridCell.Tab.0.right" timestamp="1591254317560">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="113" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591254317560" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1591095632428">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1591095632428" />
+    <state x="91" y="0" key="new project wizard" timestamp="1591114234763">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1591114234763" />
+    <state x="138" y="103" width="672" height="621" key="search.everywhere.popup" timestamp="1590909306829">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="138" y="103" width="672" height="621" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1590909306829" />
+  </component>
+</project>
